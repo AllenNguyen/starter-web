@@ -13,3 +13,7 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	
+# NOTE
+
+    Please leave a review if you like this demo
